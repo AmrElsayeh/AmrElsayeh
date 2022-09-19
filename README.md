@@ -2,7 +2,7 @@
 
 <!--
 **AmrElsayeh/AmrElsayeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 Here are some ideas to get you started:
 
 - 🔭 I’m currently studying Machine Learning Scientist with Python at DataCamp 
@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: amrelsayeh@hotmail.com
 - 😄 Pronouns: Friend 👐
 - ⚡ Finally shifted my career into DataScince
--->
+
