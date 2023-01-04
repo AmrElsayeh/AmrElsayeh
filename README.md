@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about : I am always ready to help at my best
 - 📫 How to reach me: amrelsayeh@hotmail.com
 - 😄 Pronouns: Friend 👐
-- ⚡ Finally shifted my career into DataScince
+- ⚡ Finally shifted my career into DataScience
 
