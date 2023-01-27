@@ -10,7 +10,7 @@
 
 
 - ✨ I'm currently data science trainee at ITI
-- 🔭 I’m currently studying Machine Learning and Data Science with Python 
+- 🔭 I’m currently studying Machine Learning and Data Science 
 - 🌱 I’m currently learning Everything
 - 👯 I’m looking to collaborate on business domain
 - 💬 Ask me about : I am always ready to help at my best
