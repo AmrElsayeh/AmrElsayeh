@@ -6,6 +6,7 @@
 
 <!-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors) -->
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AmrElsayeh&label=Profile%20views&color=0e75b6&style=flat" alt="AmrElsayeh" /> </p>
 ### Here are some ideas to get you started:
 
 
